@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @SKY-KISSED-FIELDS
+-  I am form China
+- 👀 I’m interested in learning CS and internet technical 
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+SKY-KISSED-FIELDS/SKY-KISSED-FIELDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
